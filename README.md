@@ -23,6 +23,5 @@ Sube un archivo CSV y obtendrás la probabilidad de renuncia de clientes.
 
 ## 🌐 App en línea
 
-Puedes probar la aplicación en vivo aquí 👉 [Ver app en Streamlit](https://prediccion-renuncia-clientes-nat9epucrrew3jtgucujqq.streamlit.app/)
-
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediccion-renuncia-clientes-nat9epucrrew3jtgucujqq.streamlit.app/)
+Puedes probar la aplicación en vivo aquí 👉  
+[![Abrir en Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://prediccion-renuncia-clientes-nat9epucvrew3jtgucujqq.streamlit.app/)
